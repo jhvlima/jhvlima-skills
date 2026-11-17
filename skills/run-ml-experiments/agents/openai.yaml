@@ -1,0 +1,4 @@
+interface:
+  display_name: "Run ML Experiments"
+  short_description: "Run reproducible ML experiments around target metrics"
+  default_prompt: "Use $run-ml-experiments to improve this model against the metric that matters."

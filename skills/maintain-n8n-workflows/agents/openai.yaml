@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maintain n8n Workflows"
+  short_description: "Safely evolve n8n workflows, docs, and versions"
+  default_prompt: "Use $maintain-n8n-workflows to change and validate these n8n workflows safely."

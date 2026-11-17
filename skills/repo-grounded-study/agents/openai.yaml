@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo-Grounded Study"
+  short_description: "Study repositories from their real files and history"
+  default_prompt: "Use $repo-grounded-study to explain this repository from its actual files and history."

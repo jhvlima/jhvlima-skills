@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence-First Research"
+  short_description: "Research decisions with current, traceable evidence"
+  default_prompt: "Use $evidence-first-research to investigate this question and build a traceable evidence map."

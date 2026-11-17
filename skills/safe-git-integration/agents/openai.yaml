@@ -1,0 +1,4 @@
+interface:
+  display_name: "Safe Git Integration"
+  short_description: "Integrate branches without losing local work"
+  default_prompt: "Use $safe-git-integration to inspect and safely integrate these Git changes."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resolver problemas com dados e ML"
+  short_description: "Da análise dos dados à avaliação de modelos de ML"
+  default_prompt: "Use $solve-data-problems para analisar este problema, escolher uma abordagem e validar a solução com os dados disponíveis."
